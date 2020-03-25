@@ -31,7 +31,7 @@ class Program
                     }
                     Console.WriteLine();
                 }
-                Thread.Sleep(400);
+                Thread.Sleep(50);
                 Console.Clear();
             }
         });
